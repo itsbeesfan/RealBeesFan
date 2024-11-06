@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @BeesFan
-- 👀 I’m interested in developing games.
-- 🌱 I’m currently learning how to do so.
-- 💞️ I’m looking to collaborate on any art for any game, and maybe someone to help develope games.
-- 📫 How to reach me Discord: Bee's Fan#6939
+- 👋 hey im tats morales (or beesfan)
+- 🌱 im learning how to code 
+- 📫 reach me through discord (beesfan)
 
 <!---
 BeesFan/BeesFan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
